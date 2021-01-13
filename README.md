@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning in Computer Science and Technology, Nanjing University, JiangSu, China.
+🌱 I’m currently learning in Department of Computer Science and Technology,, Nanjing University, JiangSu, China.
 
 📫 My email address is: mf1933052@smail.nju.edu.cn
 
