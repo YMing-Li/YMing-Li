@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning in Computer Science and Technology, Nanjing University, JiangSu, China
+📫 How to reach me: mf1933052@smail.nju.edu.cn
 <!--
 **YMing-Li/YMing-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
